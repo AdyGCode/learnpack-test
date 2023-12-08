@@ -1,0 +1,8 @@
+{
+  "grading": "incremental",
+  "difficulty": "beginner",
+  "duration": 1,
+  "description": "A test package for PHP",
+  "title": "PHP Basics",
+  "slug": "php-basics"
+}
